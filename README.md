@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [Random Password Generator]()
+  - [Random Password Generator](https://github.com/dawson351/Python-Scripts/blob/main/passwordGenerator.py)
   - [Basic Web Scraping]()
   - [Update a File]()
   - [Maximum Login Attempts](https://github.com/dawson351/Python-Scripts/blob/main/maxLogin.py)
