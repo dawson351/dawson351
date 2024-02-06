@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brandon! <br/>Programmer, Cybersecurity Enthusiast, Motocross Enthusiast</h1>
+<h1>Hi, I'm Brandon! <br/>Programmer, Cybersecurity Student, Motocross Enthusiast</h1>
 
 <h2>👨‍💻 Scripting Projects:</h2>
 
