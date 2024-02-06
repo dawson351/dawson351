@@ -1,6 +1,6 @@
 <h1>Hi, I'm Brandon! <br/>Programmer, Cybersecurity Enthusiast, Motocross Enthusiast</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Scripting Projects:</h2>
 
 - <b>Python</b>
   - [Random Password Generator](https://github.com/dawson351/Python-Scripts/blob/main/passwordGenerator.py)
@@ -9,6 +9,7 @@
   - [Maximum Login Attempts](https://github.com/dawson351/Python-Scripts/blob/main/maxLogin.py)
 - <b>JavaScript</b>
   - [Websites]
+  - [To-Do List]
   - [Inventory Management System]
   
 <h2> 🔒 Cybersecurity Projects:</h2>
