@@ -5,7 +5,7 @@
 - <b>Python</b>
   - [Random Password Generator](https://github.com/dawson351/Python-Scripts/blob/main/passwordGenerator.py)
   - [Basic Web Scraping](https://github.com/dawson351/Python-Scripts/blob/main/scraper.py)
-  - [Update a File]()
+  - [Update a File](https://github.com/dawson351/Python-Scripts/blob/main/updateFile.py)
   - [Maximum Login Attempts](https://github.com/dawson351/Python-Scripts/blob/main/maxLogin.py)
 - <b>JavaScript</b>
   - [Websites]
