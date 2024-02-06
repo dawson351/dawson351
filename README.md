@@ -3,8 +3,10 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [Automation]
-  - [Games]
+  - [Random Password Generator]()
+  - [Basic Web Scraping]()
+  - [Update a File]()
+  - [Maximum Login Attempts]()
 - <b>JavaScript</b>
   - [Websites]
   - [Inventory Management System]
